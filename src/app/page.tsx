@@ -43,7 +43,7 @@ export default function LandingPage() {
       ]}
       button={{
         text: "Get Started",        href: "#contact"}}
-      brandName="DROGON"
+      brandName="House Stark"
     />
   </div>
 
@@ -52,7 +52,7 @@ export default function LandingPage() {
       background={{
         variant: "gradient-bars"}}
       title="Unleashing Digital Dominance."
-      description="Drogon scales brands through relentless execution, data-driven strategy, and world-class engineering. No fluff, just results."
+      description="House Stark scales brands through relentless execution, data-driven strategy, and world-class engineering. No fluff, just results."
       tag="Est. 2018"
       buttons={[
         {
@@ -146,7 +146,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          name: "John Doe",          handle: "CEO, StartupCorp",          testimonial: "Drogon isn't just an agency; they are our growth engine.",          rating: 5,
+          id: "1",          name: "John Doe",          handle: "CEO, StartupCorp",          testimonial: "House Stark isn't just an agency; they are our growth engine.",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/model-man_158595-3785.jpg"},
         {
           id: "2",          name: "Jane Smith",          handle: "VP Tech, GrowthCo",          testimonial: "The most aggressive and effective developers we've worked with.",          rating: 5,
@@ -158,7 +158,7 @@ export default function LandingPage() {
           id: "4",          name: "Sarah Lee",          handle: "Marketing Director",          testimonial: "ROI increased by 300% within the first quarter.",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/designers-team-working-3d-model_23-2149371837.jpg"},
         {
-          id: "5",          name: "Chris Brown",          handle: "CEO, ScaleUp",          testimonial: "Drogon understands the mechanics of digital revenue.",          rating: 5,
+          id: "5",          name: "Chris Brown",          handle: "CEO, ScaleUp",          testimonial: "House Stark understands the mechanics of digital revenue.",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/happy-businessman-using-touchpad-while-relaxing-staircase-looking-camera_637285-10976.jpg"},
       ]}
       showRating={true}
@@ -262,7 +262,7 @@ export default function LandingPage() {
           ],
         },
       ]}
-      logoText="DROGON"
+      logoText="House Stark"
     />
   </div>
       </ReactLenis>
