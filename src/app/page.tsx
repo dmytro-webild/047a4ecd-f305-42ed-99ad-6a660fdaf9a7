@@ -51,7 +51,7 @@ export default function LandingPage() {
       <HeroSplitDualMedia
       background={{
         variant: "gradient-bars"}}
-      title="Unleashing Digital Dominance."
+      title="The Next Era of Digital."
       description="House Stark scales brands through relentless execution, data-driven strategy, and world-class engineering. No fluff, just results."
       tag="Est. 2018"
       buttons={[
